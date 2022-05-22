@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: white;
+}
+
+h1,
+h2,
+h3,
+p {
+    font-family: sans-serif;
+    color: black;
+}
+
+p {
+    font-size: 1em;
+}
+
+button {
+    color: green;
+}
